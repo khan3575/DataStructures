@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+typedef long long int ll;
 void rotate_left(int a[], int n)
 {
     cout<<"enter how many time you want to rotate\n";
